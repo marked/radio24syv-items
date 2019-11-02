@@ -1,0 +1,197 @@
+  {
+    "id": "21702098-d95c-4db0-8e2a-bbccf48c0d1a",
+    "active": false,
+    "image": {
+      "src": "https://umbraco.radio24syv.dk/media/1633/24syv_widecrop.jpg",
+      "center": "0.3973509933774834,0.6818181818181818"
+    },
+    "description": "",
+    "intro": "Den Korte Weekendavis er blevet til Den Korte Radioavis",
+    "name": "Den Korte Weekendavis",
+    "slug": "den-korte-weekendavis",
+    "topic": "Underholdning",
+    "videoProgramId": null,
+    "videoProgramTag": "",
+    "daletProgId": "Den Korte Weekendavis",
+    "broadcastInfo": {
+      "day": null,
+      "time": null,
+      "weekly": true
+    },
+    "promos": false,
+    "series": false,
+    "podcastCover": {}
+  },
+--
+  {
+    "id": "a069a77d-8397-44bc-bd72-f0a0eb63448f",
+    "active": false,
+    "image": {
+      "src": "https://umbraco.radio24syv.dk/media/1633/24syv_widecrop.jpg",
+      "center": "0.3973509933774834,0.6818181818181818"
+    },
+    "description": "<p>Søren Klæstrup fra Fodbold FM har gennemgået de otte grupper i årets fodbold-VM i Brasilien.</p>",
+    "intro": "Grupper til årets VM ",
+    "name": "Fodbold-VM",
+    "slug": "fodbold-vm",
+    "topic": "Viden",
+    "videoProgramId": null,
+    "videoProgramTag": "",
+    "daletProgId": "",
+    "broadcastInfo": {
+      "day": null,
+      "time": null,
+      "weekly": true
+    },
+    "promos": false,
+    "series": false,
+    "podcastCover": {}
+  },
+  {
+    "id": "d93c482a-f602-4075-94cc-cd9b95335c25",
+    "active": false,
+    "image": {
+      "src": "https://umbraco.radio24syv.dk/media/1633/24syv_widecrop.jpg",
+      "center": "0.3973509933774834,0.6818181818181818"
+    },
+    "description": "<p><span>Radio24syv deltog i </span><a rel=\"noopener\" href=\"https://www.folkemoedet.dk/Sider/default.aspx\" target=\"_blank\">Folkemødet</a><span> den 17-19. juni 2016 i Allinge på Bornholm. Vi havde sendt en række af af vores programmer til Bornholm og dækkede de politiske begivenheder fra mange vinkler.</span></p>\n<p><span>Her på siden kan du finde alle de programmer, som blev sendt fra, eller produceret på, øen i løbet af Folkemødet 2016.</span></p>",
+    "intro": "Mødet på Bornholm ",
+    "name": "Folkemødet 2016",
+    "slug": "folkemoedet-2016",
+    "topic": "Politik",
+    "videoProgramId": null,
+    "videoProgramTag": "",
+    "daletProgId": "",
+    "broadcastInfo": {
+      "day": null,
+      "time": null,
+      "weekly": true
+    },
+    "promos": false,
+    "series": false,
+    "podcastCover": {}
+  },
+  {
+    "id": "27992ce2-9af7-43e6-9d2a-94cad3a8b436",
+    "active": false,
+    "image": {
+      "src": "https://umbraco.radio24syv.dk/media/1633/24syv_widecrop.jpg",
+      "center": "0.3973509933774834,0.6818181818181818"
+    },
+    "description": "",
+    "intro": "",
+    "name": "Folketingets åbning",
+    "slug": "folketingets-aabning",
+    "topic": "Aktuelt",
+    "videoProgramId": null,
+    "videoProgramTag": "",
+    "daletProgId": "Folketingets åbning",
+    "broadcastInfo": {
+      "day": null,
+      "time": null,
+      "weekly": true
+    },
+    "promos": false,
+    "series": false,
+    "podcastCover": {}
+  },
+--
+  {
+    "id": "7525bac1-e1ac-45f4-899e-ae0ff0ecce32",
+    "active": false,
+    "image": {
+      "src": "https://umbraco.radio24syv.dk/media/1633/24syv_widecrop.jpg",
+      "center": "0.3973509933774834,0.6818181818181818"
+    },
+    "description": "",
+    "intro": "",
+    "name": "Globus Kina",
+    "slug": "globus-kina",
+    "topic": "Aktuelt",
+    "videoProgramId": null,
+    "videoProgramTag": "",
+    "daletProgId": "",
+    "broadcastInfo": {
+      "day": null,
+      "time": null,
+      "weekly": true
+    },
+    "promos": false,
+    "series": false,
+    "podcastCover": {}
+  },
+--
+  {
+    "id": "9ed16b39-faec-41ea-ad3f-2d1ef67443c0",
+    "active": false,
+    "image": {
+      "src": "https://umbraco.radio24syv.dk/media/1633/24syv_widecrop.jpg",
+      "center": "0.3973509933774834,0.6818181818181818"
+    },
+    "description": "<p class=\"p1\">Velkommen til programmet, hvor jeg hver dag taler med jer lyttere over telefonen om, hvordan livet opleves for den enkelte dansker. Sammen med et panel tager jeg både de aktuelle debatter op, og de emner, som I lyttere ønsker.</p>\r\n<p class=\"p1\">Formålet er, at I lyttere kan dele jeres tanker, viden, erfaring, fortællinger, bekymringer og begejstring. Og at vi dermed alle bliver lidt klogere på livet, som det leves lige nu i Danmark.</p>\r\n<p class=\"p1\">Hvis du lytter til programmet lige nu og har et indspark til dagens emne, kan du ringe ind på tlf. 20 247 247.</p>\r\n<p class=\"p1\">Og hvis du har kommentarer til programmerne eller ideer til nye emner, vi skal tage op, så skriv til <a href=\"mailto:moedregruppen@radio24syv.dk\"><span class=\"s1\">moedregruppen@radio24syv.dk</span></a> eller find os på <a rel=\"noopener noreferrer\" href=\"http://facebook.com/moedregruppen\" target=\"_blank\"><span class=\"s1\">facebook.com/moedregruppen</span></a>.</p>\r\n<p class=\"p1\">God fornøjelse og jeg håber, vi tales eller lyttes ved.</p>\r\n<p class=\"p1\">Iben Maria Zeuthen</p>",
+    "intro": "Iben og Mødregruppen er programmet, hvor danskerne taler med hinanden om det, der optager dem fra hverdagslivet.",
+    "name": "Iben & Mødregruppen",
+    "slug": "iben-moedregruppen",
+    "topic": "Samfund",
+    "videoProgramId": null,
+    "videoProgramTag": "",
+    "daletProgId": "Iben & Mødregruppen",
+    "broadcastInfo": {
+      "day": "Hverdage",
+      "time": "13:05 - 15:00",
+      "weekly": true
+    },
+    "promos": false,
+    "series": false,
+    "podcastCover": {}
+  },
+--
+  {
+    "id": "929f5050-7890-4892-917c-b20f1a9a9085",
+    "active": false,
+    "image": {
+      "src": "https://umbraco.radio24syv.dk/media/1633/24syv_widecrop.jpg",
+      "center": "0.3973509933774834,0.6818181818181818"
+    },
+    "description": "",
+    "intro": "Tag med på en times lydlig rejse ind i Ayahuascaens univers, når vi afspiller eksklusive klip fra optagelserne til ”Soldaten i Junglen”",
+    "name": "Trylledrikken fra Amazonas",
+    "slug": "trylledrikken-fra-amazonas",
+    "topic": "Dokumentar",
+    "videoProgramId": null,
+    "videoProgramTag": "",
+    "daletProgId": "Trylledrikken fra Amazonas",
+    "broadcastInfo": {
+      "day": null,
+      "time": null,
+      "weekly": true
+    },
+    "promos": false,
+    "series": false,
+    "podcastCover": {}
+  },
+--
+  {
+    "id": "a48696e8-7fdd-4682-b195-445314f77fb4",
+    "active": false,
+    "image": {
+      "src": "https://umbraco.radio24syv.dk/media/1633/24syv_widecrop.jpg",
+      "center": "0.3973509933774834,0.6818181818181818"
+    },
+    "description": "<p class=\"p1\">Bliver man invalideret af at gå på kontanthjælp? Skal frivillige klare omsorgs-og støtteopgaver i fremtidens velfærdsstat? Det er nogle af de temaer, som en række politikere debatterer i programmet \"Velfærd på Spidsen\".</p>\r\n<p class=\"p1\">Jesper Termansen har inviteret, Nadeem Farooq, beskæftigelsesordfører for De Radikale, Ulla Tørnæs, beskæftigelsesordfører for Venstre samt Stine Brix, sundhedsordfører for Enhedslisten til at tage en holmgang om overførselsindkomster i fremtiden. I anden halvdel af programmet debatterer Stine Brix videre med Simon Emil Ammizbøll, gruppeformand for Liberal Alliance samt socialordfører for Socialdemokratiet, Maja Panduro, om fremtidens frivillige.</p>",
+    "intro": "",
+    "name": "Velfærd på spidsen",
+    "slug": "velfaerd-paa-spidsen",
+    "topic": "Business",
+    "videoProgramId": null,
+    "videoProgramTag": "",
+    "daletProgId": "Velfærd på spidsen ",
+    "broadcastInfo": {
+      "day": null,
+      "time": null,
+      "weekly": true
+    },
+    "promos": false,
+    "series": false,
+    "podcastCover": {}
+  },
