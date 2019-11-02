@@ -1,0 +1,48 @@
+  {
+    "id": "718519df-8c54-43a3-a977-8cc02f07b562",
+    "active": false,
+    "image": {
+      "src": "https://umbraco.radio24syv.dk/media/1633/24syv_widecrop.jpg",
+      "center": "0.3973509933774834,0.6818181818181818"
+    },
+    "description": "<p>Mød ”Blå Bjarne” – udskældt og kritiseret for at ville dreje Socialdemokratiet i en borgerlig retning. I programmet fortæller finansministeren, hvad det er for oplevelser , ideer og erfaringer, som har gjort ham til den politiker, han er.</p>",
+    "intro": "Jesper Termansen har talt med Finansminister Bjarne Corydon.",
+    "name": "Bjarne Corydons Verden",
+    "slug": "bjarne-corydons-verden",
+    "topic": "Business",
+    "videoProgramId": 9706254,
+    "videoProgramTag": "",
+    "daletProgId": "Bjarne Corydons Verden",
+    "broadcastInfo": {
+      "day": null,
+      "time": null,
+      "weekly": true
+    },
+    "promos": false,
+    "series": false,
+    "podcastCover": {}
+  },
+  {
+    "id": "9a822605-9447-4602-9e68-8fd23dcd65e4",
+    "active": false,
+    "image": {
+      "src": "https://umbraco.radio24syv.dk/media/1633/24syv_widecrop.jpg",
+      "center": "0.3973509933774834,0.6818181818181818"
+    },
+    "description": "<p>Efter 22 år som SF´ere, skiftede Ole Sohn til Socialdemokratiet. Mød en politiker, som er gået fra kommunisme til at tale varmt for bedre vilkår for erhvervslivet. Hør hvilke tanker og ideer, der har præget Ole Sohn og gjort ham til det menneske, han er. </p>",
+    "intro": "Jesper Termansen har talt med Ole Sohn.",
+    "name": "Ole Sohns Verden",
+    "slug": "ole-sohns-verden",
+    "topic": "Business",
+    "videoProgramId": 9706338,
+    "videoProgramTag": "",
+    "daletProgId": "Ole Sohns Verden",
+    "broadcastInfo": {
+      "day": null,
+      "time": null,
+      "weekly": true
+    },
+    "promos": false,
+    "series": false,
+    "podcastCover": {}
+  },
